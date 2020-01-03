@@ -14,3 +14,7 @@
 
   roles:
     - role: dokku_bot.ansible_dokku
+      vars:
+        dokku_plugins:
+          - name: postgres
+            url: https://github.com/dokku/dokku-postgres.git
