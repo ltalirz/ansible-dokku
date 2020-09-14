@@ -1,6 +1,6 @@
 ---
 dokku_version:
-  default: 0.20.0
+  default: 0.19.12
   description: The version of Dokku to install
   type: version
 
