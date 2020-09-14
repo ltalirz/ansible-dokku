@@ -54,7 +54,7 @@ Supported Platforms
 
 ### dokku_daemon_version
 
-- default: `f3b7b0ab1b6368d49e569de03af28e497ce0a0c9`
+- default: `0.0.2`
 - type: `string`
 - description: Version of dokku-daemon to install
 
@@ -131,19 +131,19 @@ Supported Platforms
 
 ### herokuish_version
 
-- default: `0.5.5`
+- default: `0.5.14`
 - type: `version`
 - description: The version of herokuish to install
 
 ### plugn_version
 
-- default: `0.3.2`
+- default: `0.5.0`
 - type: `version`
 - description: The version of plugn to install
 
 ### sshcommand_version
 
-- default: `0.9.0`
+- default: `0.11.0`
 - type: `version`
 - description: The version of sshcommand to install
 
