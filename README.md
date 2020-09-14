@@ -42,7 +42,7 @@ Supported Platforms
 
 - geerlingguy.docker ansible role
 - nginxinc.nginx ansible role
-- Dokku version 0.19.12 (for library usage)
+- Dokku version 0.19.13 (for library usage)
 
 ## Role Variables
 
@@ -113,7 +113,7 @@ Supported Platforms
 
 ### dokku_version
 
-- default: `0.19.12`
+- default: `0.19.13`
 - type: `version`
 - description: The version of Dokku to install
 
